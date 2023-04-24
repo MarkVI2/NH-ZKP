@@ -66,9 +66,7 @@ cd src
 python binary.py
 ```
 The function x_generator require three inputs :-
-*bitNum - In case of neural hash, the bitNum accepts 16, 32, 48 as the parameter. In all other cases this should be 0
-
-*hashType - This is the type of hashing method you want to test. Valid inputs consist of "nh", "neuralhash", "md5". "sha256"
-
-*imageNum - This is the index number from the image list in the defined path list(imageDataset).
+- bitNum: In case of neural hash, the bitNum accepts 16, 32, 48 as the parameter. In all other cases this should be 0
+- hashType: This is the type of hashing method you want to test. Valid inputs consist of "nh", "neuralhash", "md5". "sha256"
+- imageNum: This is the index number from the image list in the defined path list(imageDataset).
 

@@ -7,7 +7,7 @@ NVIDIA GPU + CUDA (may CuDNN) and corresponding PyTorch framework (v2.1.0.dev)
 Python v3.10.9
 
 For ARM/Apple Silicon chips-
-Use MPS else if a GPU is available define the gpu under the variable "mps_device"
+Use MPS else if a GPU is available define the gpu under the variable "mps_device" in the ``src/test.py`` and ``src/train.py``
 
 ## Datasets
 I used NUS WIDE image dataset used in HashNet the link for their google drive can be found here [link](https://drive.google.com/drive/folders/0B7IzDz-4yH_HOXdoaDU4dk40RFE?usp=sharing). 

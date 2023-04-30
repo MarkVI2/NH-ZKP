@@ -1,5 +1,5 @@
 # NH-ZKP
-Neural Hash based zero knowledge proof (NH-ZKP) is an authentication scheme that utilises neural network generated binary hashes in contrast with regular hashing schemes. 
+Neural Hash based zero knowledge proof (NH-ZKP) is an authentication scheme that utilises neural network generated binary hashes in contrast with regular hashing schemes. The authentication scheme is proved to be faster than using the conventional hashing methods while used in a zero knowledge proof.
 
 ## Prerequisites 
 Linux or OSX
